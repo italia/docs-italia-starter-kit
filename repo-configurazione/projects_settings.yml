@@ -14,11 +14,7 @@ projects:
       occaecat cupidatat non proident, sunt in
       culpa qui officia deserunt mollit anim id 
       est laborum.
-    website: progetto.ministerodocumentazione.gov.it
-    tags:
-      - digital
-      - citizenship
-      - amazing project
+    website: https://progetto.ministerodocumentazione.gov.it
     documents:
       - title: Documento del progetto
         repository: project-document-doc
