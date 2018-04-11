@@ -16,9 +16,5 @@ publisher:
     est laborum.
   website: www.ministerodocumentazione.gov.it
   github_organization_url: github.com/organization_name
-  tags:
-    - documents
-    - public
-    - amazing publisher
   assets:
     logo: assets/images/logo.svg
