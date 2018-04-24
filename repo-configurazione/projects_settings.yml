@@ -15,6 +15,10 @@ projects:
       culpa qui officia deserunt mollit anim id 
       est laborum.
     website: https://progetto.ministerodocumentazione.gov.it
+    tags:
+      - digital
+      - citizenship
+      - amazing project
     documents:
       - title: Documento del progetto
         repository: project-document-doc
