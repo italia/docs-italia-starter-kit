@@ -1,5 +1,5 @@
 projects:
-  - title: Progetto Documentato Pubblicamente
+  - name: Progetto Documentato Pubblicamente
     short_name: PDP
     description: |
       Lorem ipsum dolor sit amet, consectetur 
@@ -20,8 +20,8 @@ projects:
       - citizenship
       - amazing project
     documents:
-      - title: Documento del progetto
+      - name: Documento del progetto
         repository: project-document-doc
-      - title: Un altro documento del progetto
+      - name: Un altro documento del progetto
         repository: another-project-document-doc
 
