@@ -1,6 +1,6 @@
 projects:
   - title: Progetto Documentato Pubblicamente
-    short-name: PDP
+    short_name: PDP
     description: |
       Lorem ipsum dolor sit amet, consectetur 
       adipisicing elit, sed do eiusmod tempor

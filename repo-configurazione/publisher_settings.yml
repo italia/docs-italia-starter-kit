@@ -1,6 +1,6 @@
 publisher:
   name: Ministero della Documentazione Pubblica
-  short-name: Min. Doc. Pub.
+  short_name: Min. Doc. Pub.
   description: |
     Lorem ipsum dolor sit amet, consectetur 
     adipisicing elit, sed do eiusmod tempor
