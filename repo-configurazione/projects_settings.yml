@@ -20,8 +20,5 @@ projects:
       - citizenship
       - amazing project
     documents:
-      - name: Documento del progetto
-        repository: project-document-doc
-      - name: Un altro documento del progetto
-        repository: another-project-document-doc
-
+      - project-document-doc
+      - another-project-document-doc
