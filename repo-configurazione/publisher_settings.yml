@@ -1,6 +1,5 @@
 publisher:
   name: Ministero della Documentazione Pubblica
-  short_name: Min. Doc. Pub.
   description: |
     Lorem ipsum dolor sit amet, consectetur 
     adipisicing elit, sed do eiusmod tempor
@@ -14,11 +13,11 @@ publisher:
     occaecat cupidatat non proident, sunt in
     culpa qui officia deserunt mollit anim id 
     est laborum.
-  website: https://www.ministerodocumentazione.gov.it
   github_organization_url: github.com/organization_name
+  short_name: Min. Doc. Pub.
+  website: https://www.ministerodocumentazione.gov.it
   tags:
     - documents
     - public
     - amazing publisher
-  assets:
-    logo: assets/images/logo.svg
+  logo: assets/images/logo.svg
