@@ -1,6 +1,5 @@
 projects:
   - name: Progetto Documentato Pubblicamente
-    short_name: PDP
     description: |
       Lorem ipsum dolor sit amet, consectetur 
       adipisicing elit, sed do eiusmod tempor
@@ -14,14 +13,12 @@ projects:
       occaecat cupidatat non proident, sunt in
       culpa qui officia deserunt mollit anim id 
       est laborum.
+    documents:
+      - project-document-doc
+      - another-project-document-doc
+    short_name: PDP
     website: https://progetto.ministerodocumentazione.gov.it
     tags:
       - digital
       - citizenship
       - amazing project
-    documents:
-      - name: Documento del progetto
-        repository: project-document-doc
-      - name: Un altro documento del progetto
-        repository: another-project-document-doc
-
