@@ -11,5 +11,5 @@ Nel Capitolo 2 vengono presentati ...
 
 .. toctree::
 
-   _docs/cap1.rst
-   _docs/cap2.rst
+   titolo-capitolo-1.rst
+   titolo-capitolo-2.rst
