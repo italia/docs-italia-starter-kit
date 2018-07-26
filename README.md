@@ -5,7 +5,7 @@ Questo repository contiene tutti i file necessari per pubblicare rapidamente un 
 
 ## Contenuto
 
-- Un repository di configurazione nominato `docs-italia-conf`
+- Un repository di configurazione che dovrà essere nominato `italia-conf`
 - Un repository di documento
 
 ## Istruzioni
