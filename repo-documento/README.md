@@ -7,6 +7,6 @@ In particolare, qui viene trattato [ARGOMENTO opzionale]().
 Link
 ----
 
-Link alla [documentazione compilata su Docs Italia](http://starter-kit-docs-italia.readthedocs.io/).
+Link alla [documentazione compilata su Docs Italia]().
 
 Link ai [documenti originali (se presenti)]().
